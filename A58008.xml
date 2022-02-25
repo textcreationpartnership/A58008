@@ -1,0 +1,1864 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. de Ryck's large collection of original, royal, Italian, ancient and modern pictures, by the greatest masters viz. Raphael de Urbin. Julio Romano. John Baptisto Bertano. Van Dyck. Breughel. Rubens. Tysens's, &amp;c. As also several of the best masters, now living in London, and of his own originals. Also, a large collection of the best Italian and French prints and drawings, with several original heads of Raphael D'Urbin, &amp;c. And a considerable parcel of books, with curious cuts, in several languages. Also, several figures in brass, stone and plaister, &amp;c. Will be sold by auction at the east-end of Exeter-Change, in the Strand, being that next the may-pole, on Monday, the 30th of this instant June, at four of the clock in the afternoon, and continue the same hour every day till all are sold.</title>
+            <author>Ryck de, Mr.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 67 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58008</idno>
+            <idno type="STC">Wing R2417</idno>
+            <idno type="STC">ESTC R223726</idno>
+            <idno type="EEBO-CITATION">99834011</idno>
+            <idno type="PROQUEST">99834011</idno>
+            <idno type="VID">38490</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58008)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38490)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1839:06)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. de Ryck's large collection of original, royal, Italian, ancient and modern pictures, by the greatest masters viz. Raphael de Urbin. Julio Romano. John Baptisto Bertano. Van Dyck. Breughel. Rubens. Tysens's, &amp;c. As also several of the best masters, now living in London, and of his own originals. Also, a large collection of the best Italian and French prints and drawings, with several original heads of Raphael D'Urbin, &amp;c. And a considerable parcel of books, with curious cuts, in several languages. Also, several figures in brass, stone and plaister, &amp;c. Will be sold by auction at the east-end of Exeter-Change, in the Strand, being that next the may-pole, on Monday, the 30th of this instant June, at four of the clock in the afternoon, and continue the same hour every day till all are sold.</title>
+                  <author>Ryck de, Mr.</author>
+               </titleStmt>
+               <extent>[2], 4, 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Catalogues are distributed gratis, at Mr. Hensman's in Westminster-Hall: Mr. Nott's in the Pall Mall: Mr. Roper's at the Miter near Temple-Bar: Mr. Hargrave's at the King's-Head, over against Furnivals-Inn in Holborn: John Bullords at the Old Bear in St. Paul' [sic] Church yard: Mr. Ric. Parker's at the Unicorn in the Royal-Exchange, Booksellers; and at the place of sale,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Art auctions --  England --  London --  Early works to 1800.</term>
+               <term>Art --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38490:1"/>
+            <pb facs="tcp:38490:1"/>
+            <p>Mr. De Ryck's LARGE COLLECTION OF Original, Royal, <hi>Italian,</hi> Ancient and Modern, PICTURES, By the greateſt MASTERS, <hi>VIZ.</hi>
+               <list>
+                  <item>
+                     <hi>Raphael D'<g ref="char:V">Ʋ</g>rbin.</hi>
+                  </item>
+                  <item>
+                     <hi>Julio Romano.</hi>
+                  </item>
+                  <item>
+                     <hi>John Baptiſto Bertano.</hi>
+                  </item>
+                  <item>
+                     <hi>Van Dyck.</hi>
+                  </item>
+                  <item>
+                     <hi>Breughel.</hi>
+                  </item>
+                  <item>
+                     <hi>Rubens.</hi>
+                  </item>
+                  <item>
+                     <hi>Tyſen's,</hi> &amp;c.</item>
+               </list>
+            </p>
+            <p>As alſo ſeveral of the beſt Maſters, now living in <hi>LONDON,</hi> and of his own Originals.</p>
+            <p>Alſo, a large Collection of the beſt <hi>Italian</hi> and <hi>French</hi> Prints and Drawings, with ſeveral Original Heads of <hi>Raphael D'<g ref="char:V">Ʋ</g>rbin,</hi> &amp;c.</p>
+            <p>And a conſiderable parcel of Books, with curious Cuts, in ſeveral Languages. Alſo, ſeveral Figures in Braſs, Stone and Plaiſter, <hi>&amp;c.</hi>
+            </p>
+            <p>Will be ſold by AUCTION at the <hi>Eaſt</hi>-end of <hi>Exeter-Change,</hi> in the <hi>Strand,</hi> being that next the <hi>May-Pole,</hi> on <hi>Monday,</hi> the 30th of this inſtant <hi>June,</hi> at Four of the Clock in the Afternoon, and continue the ſame hour every day till all are Sold.</p>
+            <p>Catalogues are diſtributed <hi>Gratis,</hi> at Mr. <hi>Henſman</hi>'s in <hi>Weſtminſter-Hall:</hi> Mr. <hi>Nott</hi>'s in the <hi>Pall Mall:</hi> Mr. <hi>Roper</hi>'s at the <hi>Miter</hi> near <hi>Temple-Bar:</hi> Mr. <hi>Hargrave</hi>'s at the King's-Head, over againſt <hi>Furnivals-Inn</hi> in <hi>Holborn: John Bullords</hi> at the Old Bear in St. <hi>Paul'</hi> Church-yard: Mr. <hi>Ric. Parker</hi>'s at the Unicorn in the <hi>Royal-Exchange,</hi> Bookſellers; and at the place of Sale.</p>
+         </div>
+         <div type="conditions">
+            <pb facs="tcp:38490:2"/>
+            <head>Conditions of SALE.</head>
+            <list>
+               <item>
+                  <hi>I.</hi> THat he who bids moſt is the Buyer, and if any Difference ariſe which the Company cannot De<g ref="char:EOLhyphen"/>cide, then the Painting, Prints, <hi>&amp;c.</hi> ſhall be Expoſed to Sale again.</item>
+               <item>
+                  <hi>II.</hi> That the Money for the Paintings, Prints, Books <hi>&amp;c.</hi> ſo bought, is to be paid at the place of Sale within three Days after the Sale is ended.</item>
+               <item>
+                  <hi>III.</hi> That all Gentlemen, Ladies <hi>&amp;c.</hi> after the buying any Painting or Limning, will be pleaſed to give in their Names and Lodgings, otherwiſe to pay the third part of the Price, or the whole Money preſently for them, where upon payment of the remainder within the time limited the Paintings Limnings, <hi>&amp;c.</hi> ſhall be delivered to them or their Order.</item>
+               <item>
+                  <hi>IV.</hi> That the owner will not bid for any Painting, Print <hi>&amp;c.</hi> in the enſuing Catalogue.</item>
+               <item>
+                  <hi>V.</hi> That no Perſon is to bid leſs than ſix-pence a time, for any Lott expoſed to Sale.</item>
+               <item>
+                  <hi>VI.</hi> That the Paintings, Limning <hi>&amp;c.</hi> may be viewed every Forenoon before the Afternoons Sale, by any Perſons that pleaſe to repair to the place of Sale.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="list">
+            <pb n="1" facs="tcp:38490:2"/>
+            <head>PAINTINGS.</head>
+            <list>
+               <item>1 A Dog.</item>
+               <item>2 a Head in two Colours</item>
+               <item>3 Another Head in two Colours.</item>
+               <item>4 King <hi>William</hi>
+               </item>
+               <item>5 an half length in two Colours.</item>
+               <item>6 a ſmall Flower-piece</item>
+               <item>7 King <hi>James</hi> a half length.</item>
+               <item>8 a Womans Head in a black Frame</item>
+               <item>9 another Womans Head.</item>
+               <item>10 a piece of Fiſh</item>
+               <item>11 <hi>Wat Tilers</hi> Head.</item>
+               <item>12 a Womans head</item>
+               <item>13 4 Old mens heads.</item>
+               <item>14 a piece of Plate</item>
+               <item>15 a piece of Fiſh.</item>
+               <item>16 a flower-piece</item>
+               <item>17 an Old Womans head.</item>
+               <item>18 a neat <hi>Diana</hi>
+               </item>
+               <item>19 — another, <hi>Ditto.</hi>
+               </item>
+               <item>20 a Virgin <hi>Mary,</hi> on copper</item>
+               <item>21 <hi>Lot</hi> and his two Daughters.</item>
+               <item>22 a Naked <hi>Cleopatra</hi>
+               </item>
+               <item>23 a Chriſtmas, by an <hi>Italian.</hi>
+               </item>
+               <item>24 a Sketch of St. <hi>George</hi>
+               </item>
+               <item>25 a Ladies head.</item>
+               <item>26 a Landskip with figures</item>
+               <item>27 —another, <hi>Ditto.</hi>
+               </item>
+               <item>28 a Rape of <hi>Proſerpine</hi>
+               </item>
+               <item>29 <hi>Leda</hi> with the Swan.</item>
+               <item>30. a Landskip with <hi>Charon</hi> the Ferryman</item>
+               <item>31 Salutation of the Virgin <hi>Mary.</hi>
+               </item>
+               <item>32 a Child with Trophies of War</item>
+               <item>33 King <hi>Melchizedeck</hi> with the Angel</item>
+               <item>34 <hi>Orpheus</hi> taking his Wife out of Hell, after <hi>Carats</hi>
+               </item>
+               <item>35 <hi>Andromeda,</hi> done after <hi>Ditto.</hi>
+               </item>
+               <item>36 an <hi>Engliſh</hi> Gentleman a Drinking</item>
+               <item>37 a Gentleman a Writing</item>
+               <item>38 a Face of <hi>Baron du Frene,</hi> done by the life</item>
+               <item>39 a <hi>Turkiſh</hi> Sea-port, by <hi>Waggenar.</hi>
+               </item>
+               <item>40 a Boy and a Girl playing</item>
+               <item>41 <hi>Venus</hi> and <hi>Cupid</hi> aſleep, in little</item>
+               <item>42 a piece of Fruit</item>
+               <item>43 Prudence by an <hi>Italian</hi> maſter</item>
+               <item>44 a Boy playing on the Pipe, finely done</item>
+               <item>45 an amorous piece</item>
+               <item>46 a Landskip of <hi>Jaſper de Wit</hi>
+               </item>
+               <item>47 <hi>Mary Magdalens</hi> head</item>
+               <item>48 a Madona's head done with Cricons, by an <hi>Ital.</hi>
+               </item>
+               <item>49 an sketch of <hi>Venus</hi> and <hi>Adonis,</hi> by <hi>deRyck</hi>
+               </item>
+               <item>50 a Ladies head in little, after the life</item>
+               <item>51 an half length picture in ſmall</item>
+               <item>52 a ſmall Landskip</item>
+               <item>53 an original sketch of a Ladies picture</item>
+               <item>54 a Childs head after the life</item>
+               <item>55 an sketch, an half length, by <hi>de Ryck</hi>
+               </item>
+               <item>56 an sketch after the life, by <hi>Van Dyck</hi>
+               </item>
+               <item>57 a piece of Honour</item>
+               <item>58 2 Children eating of Milk</item>
+               <item>59 a ladies picture by <hi>de Ryck</hi>
+               </item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d after the life on copper, by a <hi>D.</hi> maſter</item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> little by <hi>Houſman</hi>
+               </item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> by <hi>Van Dyck</hi>
+               </item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ick</item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> n </item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>Plyrmouth</hi>
+               </item>
+               <pb n="2" facs="tcp:38490:3"/>
+               <item>67 a Crucifix of <hi>Rubens</hi> in ſmall</item>
+               <item>68 <hi>Apollo</hi> by <hi>de Ryck</hi>
+               </item>
+               <item>69 a Landskip in ſmall of <hi>Houſman</hi>
+               </item>
+               <item>70 a Landskip by <hi>Van Deiſt</hi>
+               </item>
+               <item>71 <hi>Venus</hi> and <hi>Cupid</hi> waſhing their feet</item>
+               <item>72 a Lady, a whole length, in little, by <hi>de Ryck</hi>
+               </item>
+               <item>73 a three quarter Landskip, by a <hi>Dutch</hi> maſter</item>
+               <item>74 — another, <hi>Ditto</hi>
+               </item>
+               <item>75 <hi>Suſannah</hi> very well painted</item>
+               <item>76 <hi>Theſeus</hi> and <hi>Medea,</hi> an origin. by an <hi>Ital.</hi> maſter</item>
+               <item>77 a little boy after the life, by <hi>Van Dyck</hi>
+               </item>
+               <item>78 a large Piece of <hi>Cleopatra</hi>
+               </item>
+               <item>79 a head after the life, by <hi>de Ryck</hi>
+               </item>
+               <item>80 an <hi>Italian</hi> sketch of <hi>Cibele</hi> and <hi>Jupiter</hi>
+               </item>
+               <item>81 an whole length Blackmoor of <hi>Rubens</hi> in little</item>
+               <item>82 an old mans head of <hi>Van Dyck</hi>
+               </item>
+               <item>83 an half length original</item>
+               <item>84 a Madona, an original of <hi>du Ball</hi>
+               </item>
+               <item>85 a Womans face after the life</item>
+               <item>86 an <hi>Ital</hi> picture of our Saviour taking of the croſs</item>
+               <item>87 an old mans head by the life, of <hi>de Ryck</hi>
+               </item>
+               <item>88 <hi>Hagar</hi> and the Angel by an <hi>Italian</hi>
+               </item>
+               <item>89 <hi>Suſannah</hi> and the two Elders, finely done</item>
+               <item>90 a Ruin</item>
+               <item>91 an half length Ladies picture</item>
+               <item>92 a very fine Horſe painted by the life</item>
+               <item>93 a large piece of <hi>Sampſon</hi> and <hi>Dalilah</hi>
+               </item>
+               <item>94 <hi>Mary Magdalens</hi> head of <hi>Fetti</hi>
+               </item>
+               <item>95 a ſmall half length Ladies picture</item>
+               <item>96 <hi>Venus</hi> kiſſing <hi>Cupid,</hi> on copper, by <hi>Van Heyden</hi>
+               </item>
+               <item>97 a head of <hi>Pandera</hi>
+               </item>
+               <item>98 an <hi>Italian</hi> Crucifix</item>
+               <item>99 a head after the life, by <hi>de Ryck</hi>
+               </item>
+               <item>110 —another of <hi>Ditto</hi>
+               </item>
+               <item>101 a pleaſant picture with variety of ſtone work</item>
+               <item>102 a Naked <hi>Venus</hi> aſleep of <hi>Tyſen</hi>'s</item>
+               <item>103 King <hi>William</hi> on Horſeback</item>
+               <item>104 <hi>Venus</hi> whipping <hi>Cupid,</hi> on copper, by <hi>Van Heyden</hi>
+               </item>
+               <item>105 a Ladies head on copper, by <hi>de Ryck</hi>
+               </item>
+               <item>106 a Ladies picture in ſmall</item>
+               <item>107 Mr. <hi>Stiners</hi> picture on copper</item>
+               <item>108 a little half length Gentlemans picture</item>
+               <item>109 a Sea port for a Chimny</item>
+               <item>111 a Gentlemans head after the life, by <hi>de Ryck</hi>
+               </item>
+               <item>112 a sketch the Judgment of <hi>Paris, Ditto</hi>
+               </item>
+               <item>113 The fire of <hi>London</hi>
+               </item>
+               <item>114 The Holy Family, by an <hi>Italian</hi>
+               </item>
+               <item>115 a large piece of <hi>Lot</hi> and his Daug <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ers</item>
+               <item>116 a three quarter Landskip by an <hi>Italian</hi>
+               </item>
+               <item>117 a very fine Landskip</item>
+               <pb n="3" facs="tcp:38490:3"/>
+               <item>118 an Womans head of <hi>Van Dyck</hi>
+               </item>
+               <item>219 <hi>Venus</hi> whipping <hi>Cupid,</hi> after <hi>Carats</hi>
+               </item>
+               <item>120 an half length in little, by <hi>de Ryck</hi>
+               </item>
+               <item>121 <hi>Jupiter</hi> in the Golden Showrc, rarely well done</item>
+               <item>122 <hi>Lot</hi> and his Daughters, inſmall</item>
+               <item>123 Three children a playing, by <hi>de Ryck</hi>
+               </item>
+               <item>124 a piece of <hi>Charity,</hi> on copper, by <hi>du Ball</hi>
+               </item>
+               <item>125 King <hi>William</hi> as big as the life</item>
+               <item>126 a three quarter Landskip</item>
+               <item>127 <hi>Andromeda</hi> after <hi>Carats</hi>
+               </item>
+               <item>128 a Ladies head after the life</item>
+               <item>129 a piece of Birds by <hi>Breughel</hi>
+               </item>
+               <item>130 <hi>Venus</hi> and <hi>Cupid</hi> aſleep, by Mrs. <hi>de Ryck</hi>
+               </item>
+               <item>131 King <hi>James</hi> at length, in little, <hi>Ditto</hi>
+               </item>
+               <item>132 a Sea-port</item>
+               <item>133 a Captain <hi>Dabadi,</hi> on copper; by <hi>de Ryck</hi>
+               </item>
+               <item>134 a man in Armor of Ditto</item>
+               <item>135 an Robbery of Mr. <hi>Wyck</hi>
+               </item>
+               <item>136 <hi>Mary Magdalen</hi> in an Oval frame</item>
+               <item>137 an half length in little, by <hi>de Ryck</hi>
+               </item>
+               <item>138 <hi>Venus</hi> and <hi>Cupid</hi> on copper by <hi>Du Ball</hi>
+               </item>
+               <item>139 An head of <hi>Cleopatra</hi> by an <hi>Italian</hi>
+               </item>
+               <item>140 A peiee of fruit of <hi>Campidolio</hi>
+               </item>
+               <item>141 a 3 quarter <hi>Jeromimus</hi> by an <hi>Italian</hi>
+               </item>
+               <item>142 A <hi>Venus</hi> a ſleeping after the life of <hi>De Ryck</hi>
+               </item>
+               <item>143 A <hi>Moſes</hi> of <hi>ditto</hi>
+               </item>
+               <item>144 The finding of <hi>Moſes,</hi> finely painted</item>
+               <item>145 <hi>Cupid</hi> waſhing the feet of <hi>Venus</hi>
+               </item>
+               <item>146 a boy playing upon the pipe finely painted</item>
+               <item>147 a Landskip of Mr <hi>Edima</hi>
+               </item>
+               <item>148 Two <hi>Italian</hi> women after the Life</item>
+               <item>149 an amorous piece by <hi>De Ryck</hi>
+               </item>
+               <item>150 a woman after the life <hi>ditto</hi>
+               </item>
+               <item>151 a Landskip of Mr. <hi>Van Deiſt</hi>
+               </item>
+               <item>152 a woman at length looking her ſelf in a glaſs done after the life</item>
+               <item>153 <hi>Sampſon</hi> and <hi>Dalyla</hi> after the life of <hi>De Ryck</hi>
+               </item>
+               <item>154 a fruit-piece by <hi>Verelſt</hi>
+               </item>
+               <item>155 a large piece of <hi>Amazons</hi>
+               </item>
+               <item>156 <hi>Lot</hi> and his Daughters of Mrs <hi>De Ryck</hi>
+               </item>
+               <item>157 a <hi>Venus</hi> in ſmall of <hi>Van Dyck</hi>
+               </item>
+               <item>158 a pleaſant good Landskip</item>
+               <item>159 <hi>Endimion</hi> and <hi>Diana</hi> by <hi>De Ryck</hi>
+               </item>
+               <item>160 a ſmall Landskip</item>
+               <item>161 <hi>Bacchus</hi> and <hi>Ariadne</hi> of an <hi>Italian</hi>
+               </item>
+               <item>162 An Apoſtle writing</item>
+               <item>163 an <hi>Italian</hi> flower-piece</item>
+               <item>164 a battel</item>
+               <item>165 A <hi>Mary Magdalen</hi>
+               </item>
+               <item>166 <hi>Suſanna</hi>
+               </item>
+               <item>167 A large piece of <hi>Aeolus</hi> and <hi>Juno</hi>
+               </item>
+               <pb facs="tcp:38490:4"/>
+               <item>168 a piece with Eagles</item>
+               <item>169 a young woman after the life by <hi>De Ryck</hi>
+               </item>
+               <item>170 a vanity original by <hi>Rouſtraten</hi>
+               </item>
+               <item>171 a fruit-piece original by <hi>Boudan</hi>
+               </item>
+               <item>172 a <hi>Lucretia</hi> by Mrs. <hi>De Ryck</hi>
+               </item>
+               <item>173 a large <hi>Sampſon</hi> and <hi>Dalila</hi> ditto</item>
+               <item>174 a picture with antique Ruins</item>
+               <item>175 a flower-piece by Mr. <hi>Boudan</hi>
+               </item>
+               <item>176 a landskip by Mrs. <hi>Edima</hi>
+               </item>
+               <item>177 <hi>Leander</hi> and <hi>Hero</hi> in oval by <hi>De Ryck</hi>
+               </item>
+               <item>178 <hi>Mars</hi> and <hi>Venus</hi> ditto</item>
+               <item>179 a woman in little by <hi>Van Dyck</hi>
+               </item>
+               <item>180 a Sea-port</item>
+               <item>181 <hi>Cupids</hi> playing together by <hi>De Ryck</hi>
+               </item>
+               <item>182 <hi>Herodias</hi> with St. <hi>Johns</hi> head <hi>ditto</hi>
+               </item>
+               <item>183 Sr. <hi>William Drak</hi>'s pleaſure houſe by the life</item>
+               <item>184 a vanity by a <hi>Dutch</hi> maſter</item>
+               <item>185 a <hi>Semele</hi> and <hi>Jupiter</hi> of <hi>De Ryck</hi>
+               </item>
+               <item>186 a <hi>Mary Magdalen</hi> ditto</item>
+               <item>187 a Fruit-piece by a <hi>Dutch</hi> maſter</item>
+               <item>188 Captain <hi>Capels</hi> picture by <hi>De Ryck</hi>
+               </item>
+               <item>189 a little sketch of boards by <hi>Brughel</hi>
+               </item>
+               <item>190 a <hi>Dana</hi> and <hi>Jupiter</hi> in a golden rain by <hi>De Ryck</hi>
+               </item>
+               <item>191 a fruit-peice by <hi>Verelſt</hi>
+               </item>
+               <item>192 a Partridge</item>
+               <item>193 a picture half length by <hi>De Ryck</hi>
+               </item>
+               <item>194 a <hi>Suſanna</hi> and the two Elders <hi>Ditto</hi>
+               </item>
+               <item>195 a piece with Peacocks and Beaſts by <hi>Snyder</hi>
+               </item>
+               <item>196 an original <hi>Aeolus</hi> and <hi>Juno</hi> by <hi>De Ryck</hi>
+               </item>
+               <item>197 a large battle</item>
+               <item>198 — <hi>Arſis</hi> by <hi>De Ryck</hi>
+               </item>
+               <item>199 a piece with Peacocks very fine</item>
+               <item>200 The angel and <hi>Gideon</hi>
+               </item>
+               <item>201 a <hi>Suſannah</hi> by <hi>De Ryck</hi>
+               </item>
+               <item>202 <hi>Lot</hi> and his Daughters <hi>Ditto</hi>
+               </item>
+               <item>203 The ſilver fiſhing in the <hi>West Indies</hi>
+               </item>
+               <item>204 <hi>Diana</hi> and <hi>Alleon</hi> by <hi>De Ryck</hi>
+               </item>
+               <item>205 a little piece with 3 fig. after the life, by <hi>DeRyck</hi>
+               </item>
+               <item>206 a Froſt piece</item>
+               <item>207 a woman playing upon the Lute by <hi>De Ryck</hi>
+               </item>
+               <item>208 a Friers head done by the life by <hi>Tintoret</hi>
+               </item>
+               <item>209 an origidal Prudence by <hi>De Ryck</hi>
+               </item>
+               <item>210 a <hi>Pſyche</hi> and <hi>Cupid</hi> done by a great <hi>Italian</hi> maſt.</item>
+               <item>211 a <hi>Suſannah</hi> with the two Elders by <hi>De Ryck</hi>
+               </item>
+               <item>212 a womans head after the life <hi>Ditto</hi>
+               </item>
+               <item>213 a 3 quarter <hi>Lucretia</hi> Ditto</item>
+               <item>214 a <hi>Mary Magdalen</hi> Ditto</item>
+               <item>215 <hi>Pater Spignola in</hi> an <hi>Indian</hi> dreſs</item>
+               <item>216 Two Children a playing by <hi>De Ryck</hi>
+               </item>
+               <item>217 a large piece with Birds very fine</item>
+               <item>218 <hi>Crpid</hi> waſhing <hi>Venus</hi>'s feet by <hi>De Ryck</hi>
+               </item>
+            </list>
+            <p>☞ The large Painting <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the and of the Catalog<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="list">
+            <pb facs="tcp:38490:4"/>
+            <head>Prints <hi>and</hi> Figures, in Braſs, Stone, Plaiſter, <hi>&amp;c.</hi>
+            </head>
+            <list>
+               <item>1 THirty one Prints of <hi>Roman</hi> Antiquities</item>
+               <item>2 6 Prints of ſeveral Maſters</item>
+               <item>3 12 Saints</item>
+               <item>4 A collection of Prints by ſeveral Maſters</item>
+               <item>5 4 <hi>French</hi> Prints</item>
+               <item>6 7 Prints of <hi>Caſtillion</hi>
+               </item>
+               <item>7 4 <hi>Italian</hi> Madona's</item>
+               <item>8 3 Virgin <hi>Mary</hi>'s of <hi>Cam. Procatſino</hi>
+               </item>
+               <item>9 5 large Prints of <hi>Corregio,</hi> &amp;c.</item>
+               <item>10 4 large Prints of <hi>Peter Teſta</hi>
+               </item>
+               <item>11 3 <hi>Italian</hi> Charities</item>
+               <item>12 17 Prints of <hi>La Potre,</hi> and others</item>
+               <item>13 6 Heads of <hi>Van Dyck</hi> and others</item>
+               <item>14 6 Heads of <hi>Sadler, Bloteling,</hi> and other Maſters</item>
+               <item>15 4 Heads of <hi>Bloteling, Voſterman,</hi> and others</item>
+               <item>16 4 Heads of <hi>Van Dyck,</hi> and others</item>
+               <item>17 4 Heads of <hi>Voſterman, Viſscher,</hi> and other Maſters</item>
+               <item>18 3 Heads of <hi>Largilierre, Wiſſing</hi> and <hi>Voſterman</hi>
+               </item>
+               <item>19 3 large <hi>Italian</hi> Prints of <hi>Bonnaſon,</hi> &amp;c.</item>
+               <item>20 5 Prints, 3 whereof are <hi>Permence</hi>
+               </item>
+               <item>21 5 <hi>Italian</hi> Prints of <hi>Polidore,</hi> and others</item>
+               <item>22 4 Prints of <hi>Montuanus</hi>
+               </item>
+               <item>23 7 Prints of <hi>Mark Antony, &amp;c.</hi>
+               </item>
+               <item>24 6 Prints of <hi>Paul Veroneſe,</hi> and others</item>
+               <item>25 3 Prints of <hi>Michael Angelo, Julio Bonaſore,</hi> &amp;c.</item>
+               <item>26 7 large Battels of <hi>Peter Tempeſta</hi>
+               </item>
+               <item>27 7 Prints of <hi>Michael Angelo,</hi> and <hi>Raphael Urbin</hi>
+               </item>
+               <item>28 3 Prints of <hi>Raphael Urbin</hi>
+               </item>
+               <item>29 2 Prints of <hi>Mark Antony</hi>
+               </item>
+               <item>30 4 Proſpects by <hi>Tor de Franco</hi>
+               </item>
+               <item>31 13 Prints of <hi>Haemskirk</hi>
+               </item>
+               <item>32 24 large Prints of <hi>Tempeſts</hi> Bible</item>
+               <item>33 11 Prints of <hi>Vaſſes</hi> by <hi>Le Potre</hi>
+               </item>
+               <item>34 2 large Prints of <hi>Matthias, Charles</hi> V. by <hi>Giles Sadler</hi>
+               </item>
+               <item>35 4 Prints of <hi>Titian, Mark Antony,</hi> and others</item>
+               <item>36 14 Prints of <hi>Alhert Durer</hi>
+               </item>
+               <item>37 4 Metzo-tinto Prints</item>
+               <item>38 38 Prints by ſeveral Maſters</item>
+               <item>39 7 Prints of <hi>Titian</hi> and others</item>
+               <item>40 3 Prints of <hi>Raphael Urbin</hi>
+               </item>
+               <item>41 A Marble Antique Figure</item>
+               <item>42 <hi>Michael Angelo</hi>'s <hi>Moſes</hi> in ſtone</item>
+               <item>43 A Bacchanal in Bas-Relieufs</item>
+               <item>44 St. <hi>Paul</hi> in Stone</item>
+               <item>45 A Sea Triumph in Bas-Relieufs</item>
+               <item>46 <hi>Jupiter</hi> and <hi>Leda</hi> in Bas-Relieufs</item>
+               <item>47 3 Heads of <hi>Van Dyck</hi>
+               </item>
+               <item>48 3 Heads of <hi>Maſſon</hi> and <hi>Nantueil</hi>
+               </item>
+               <pb facs="tcp:38490:5"/>
+               <item>49 7 Heads of <hi>Bloteling, Loggan, Sadler,</hi> &amp; other maſters</item>
+               <item>50 6 heads of <hi>Nantueil,</hi> and other maſters</item>
+               <item>51 5 <hi>French</hi> poſtures</item>
+               <item>52 18 heads of our <hi>Engliſh</hi> Divines</item>
+               <item>53 17 <hi>Roman</hi> Statues</item>
+               <item>54 17 Prints of <hi>Albert Durer</hi>
+               </item>
+               <item>55 48 pieces of Antiquities of <hi>Rome</hi>
+               </item>
+               <item>56 12 Etch'd Prints by <hi>Haemskirk</hi>
+               </item>
+               <item>57 5 large Prints of <hi>Michael Angelo</hi>
+               </item>
+               <item>58 2 large Prints of <hi>Ditto</hi>
+               </item>
+               <item>59 7 Prints of <hi>Foldidge</hi>
+               </item>
+               <item>60 2 Prints of <hi>Mark Antony</hi>
+               </item>
+               <item>61 6 Prints of <hi>Albert Durer,</hi> and others</item>
+               <item>62 3 Prints of <hi>Paul Veroneſe, Spaign,</hi> &amp;c.</item>
+               <item>63 7 Landskips of <hi>Muſiano</hi>
+               </item>
+               <item>64 2 large prints of <hi>Raphael Urbin</hi>
+               </item>
+               <item>65 24 Etch'd Prints by <hi>Haemskirk</hi>
+               </item>
+               <item>66 33 <hi>Roman</hi> Antiquities</item>
+               <item>67 10 <hi>Venus</hi>'s and <hi>Cupids</hi> of <hi>Carrats</hi>
+               </item>
+               <item>68 3 prints of <hi>Raphael Urbin,</hi> and <hi>Mark Antony</hi>
+               </item>
+               <item>69 The great Gallery of <hi>Polydore</hi>
+               </item>
+               <item>70 2 large prints of <hi>Julio Romane</hi>
+               </item>
+               <item>71 2 prints of <hi>Mark Antony,</hi> and <hi>Julio Romane</hi>
+               </item>
+               <item>72 A <hi>Roman</hi> Antique</item>
+               <item>73 A head of the Grecian <hi>Veuus</hi>
+               </item>
+               <item>74 A little Child of <hi>Fiamengo</hi>
+               </item>
+               <item>75 A Biſhops head of Ditto</item>
+               <item>76 A Child in Stone</item>
+               <item>77 <hi>Diogenes</hi> his head Antique</item>
+               <item>78 A <hi>Bacchus</hi> in ſtone</item>
+               <item>79 <hi>Lacons</hi> head Antique</item>
+               <item>80 An Antique Head</item>
+               <item>81 12 Heads of Fminent Divines</item>
+               <item>82 6 Heads of <hi>Nantueil,</hi> and other maſters</item>
+               <item>83 4 Heads of <hi>Nantueil, Bloteling,</hi> and other maſters</item>
+               <item>84 5 Heads of <hi>Bloteling, Davis,</hi> and others</item>
+               <item>85 4 Heads of <hi>Nantueil</hi>
+               </item>
+               <item>86 6 Heads of <hi>Vandrebanc, Jode,</hi> and other maſters</item>
+               <item>87 6 large poſtures finely done</item>
+               <item>88 6 prints, <hi>viz.</hi> The K. of <hi>England,</hi> the K. of <hi>France,</hi> the K. of <hi>Spain,</hi> K. <hi>James</hi> the Second, Dr. <hi>Burnet</hi> and St. <hi>Bruno</hi>
+               </item>
+               <item>89 8 curious prints of Heads, and whole lengths, by the beſt maſters</item>
+               <item>90 8 Heads by ſeveral maſters</item>
+               <item>91 10 Heads by <hi>Pontius, Van Dalen, Loggan,</hi> and other maſters</item>
+               <item>92 5 large Prints of <hi>Raphael Urbin,</hi> and others</item>
+               <item>93 The Battel of <hi>Conſtantine</hi> by <hi>Raphael Urbin;</hi> and the Marriage of <hi>Canaan</hi> by <hi>Veroneſe</hi>
+               </item>
+               <item>94 A very large Print of <hi>Julio Romane</hi>
+               </item>
+               <item>95 2 large Prints of <hi>Carratt</hi> and <hi>Belloyne</hi>
+               </item>
+               <item>96 2 large Prints of <hi>Bartano</hi> and <hi>Mantuano</hi>
+               </item>
+               <pb facs="tcp:38490:5"/>
+               <item>97 2 large Prints of <hi>Paul Veroneſe</hi>
+               </item>
+               <item>98 5 Prints of <hi>Raphael Urbin</hi> and <hi>Michael Angelo</hi>
+               </item>
+               <item>99 <hi>Urbins Galatea</hi>
+               </item>
+               <item>100 The Judgment of <hi>Paris</hi> by <hi>Bonaſone</hi>
+               </item>
+               <item>101 2 prints of <hi>Mark Antony</hi>
+               </item>
+               <item>102 3 prints of <hi>Carratts</hi>
+               </item>
+               <item>103 4 Metzo-tinto prints</item>
+               <item>104 A Naked Sybil Antique</item>
+               <item>105 A Horſes Head Antique</item>
+               <item>106 <hi>Apollos</hi>
+               </item>
+               <item>107 A Boys Head in Stone</item>
+               <item>108 A ſleeping <hi>Venus</hi> in Stone</item>
+               <item>109 A Satyrs Head</item>
+               <item>110 11 prints of <hi>Jode</hi>'s Life of Chriſt, <hi>&amp;c.</hi>
+               </item>
+               <item>111 12 prints of <hi>Aldegrave,</hi> and others</item>
+               <item>112 The 4 Elements of <hi>Cornelius Vandalen</hi>
+               </item>
+               <item>113 28 Drolls Etch'd by <hi>Oſtade</hi>
+               </item>
+               <item>114 The four Fathers of the Church</item>
+               <item>115 7 prints of <hi>Giles, Sadlers,</hi> and others</item>
+               <item>116 Our Saviour and his 12 Apoſtles, neatly graved</item>
+               <item>117 4 Scripture-ſtories, in large Sheets</item>
+               <item>118 4 prints of <hi>Raphael Urbin,</hi> and <hi>Julio Romano</hi>
+               </item>
+               <item>119 6 prints of the Hiſtory of <hi>Ulyſſes,</hi> by <hi>Carratt</hi>
+               </item>
+               <item>120 12 prints of <hi>Guido, Reni,</hi> and others</item>
+               <item>121 8 of <hi>Palma</hi>
+               </item>
+               <item>122 The 2 Schools of <hi>Raphael</hi>
+               </item>
+               <item>123 3 of <hi>Raphael</hi> and <hi>Titian</hi>
+               </item>
+               <item>124 2 prints of <hi>Raphael</hi>
+               </item>
+               <item>125 8 of <hi>Procatſino</hi> and others</item>
+               <item>126 10 of <hi>Pordignon</hi> and others</item>
+               <item>127 32 of <hi>Raphael Urbin</hi> and others</item>
+               <item>128 43 of <hi>Pouſſin</hi> and of <hi>Titian</hi>
+               </item>
+               <item>129 2 of <hi>Simon Voet</hi>
+               </item>
+               <item>130 2 of <hi>Raphael de Urbin,</hi> and <hi>Mark Antony</hi>
+               </item>
+               <item>131 5 of <hi>Sadler and Titian</hi>
+               </item>
+               <item>132 3 <hi>Italian</hi> prints</item>
+               <item>133 3 more <hi>Italian</hi> prints</item>
+               <item>134 2 one of <hi>Veroneſe</hi> and <hi>Bolloni,</hi> a Cieling-piece</item>
+               <item>135 2 of <hi>Raphael de Urbin</hi>
+               </item>
+               <item>136 2 of <hi>Mark Antony</hi>
+               </item>
+               <item>137 2 more of <hi>Mark Antony</hi>
+               </item>
+               <item>138 10 of ſeveral <hi>Italian</hi> maſters</item>
+               <item>139 8 of ſeveral <hi>Italian</hi> maſters</item>
+               <item>140 2 of <hi>Raphael de Urbin</hi>
+               </item>
+               <item>141 A Child of <hi>Fiamengo</hi>
+               </item>
+               <item>142 An Antique head</item>
+               <item>143 An old mans head</item>
+               <item>144 An Antique figure in ſtone</item>
+               <item>145 The ſlave of <hi>Michael Angelo</hi>
+               </item>
+               <item>149 A ſleeping <hi>Venus</hi>
+               </item>
+               <pb n="4" facs="tcp:38490:6"/>
+               <item>150 A Head of <hi>Galba</hi>
+               </item>
+               <item>151 A head of <hi>Polydorus</hi>
+               </item>
+               <item>152 10 Apoſtles heads in Bas-Relieuſs</item>
+               <item>153 A Woman lying on her belly</item>
+               <item>154 5 large Bible-ſtories by <hi>Nolpen</hi>
+               </item>
+               <item>155 6 large Landskips of <hi>Vinckaboon</hi>'s</item>
+               <item>156 9 Philoſophers Heads, and others</item>
+               <item>157 33 of the moſt eminent Cities of <hi>Europe,</hi> finely grav'd</item>
+               <item>158 4 large prints by ſeveral maſters</item>
+               <item>159 <hi>Baſan</hi>'s 4 ſeaſons of the year</item>
+               <item>160 8 prints after <hi>Titian, Seghers,</hi> and others</item>
+               <item>161 7 ſtories after <hi>Rubens, Van Dyck,</hi> and <hi>Seghers</hi>
+               </item>
+               <item>162 12 Bible-ſtories after <hi>Stradanus</hi>
+               </item>
+               <item>163 Three Bacchanals</item>
+               <item>164 2 of <hi>Julio Romano</hi>
+               </item>
+               <item>165 2 of <hi>Raphael de Urbin</hi>
+               </item>
+               <item>166 3 of <hi>Parmenſis</hi> and <hi>Montuanus</hi>
+               </item>
+               <item>167 2 of <hi>Raphael</hi> and <hi>Boloni</hi>
+               </item>
+               <item>168 2 of <hi>Raphael de Urbin</hi>
+               </item>
+               <item>169 A battel on a bridge, by <hi>Titian</hi>
+               </item>
+               <item>170 <hi>Raphael de Urbins</hi> Dream</item>
+               <item>171 2 one of <hi>Raphael,</hi> one of <hi>Julio Romano</hi>
+               </item>
+               <item>172 2 of <hi>Raphael de Urbin</hi>
+               </item>
+               <item>173 The Judgment of <hi>Paris,</hi> by <hi>Mark Antony,</hi> and others</item>
+               <item>174 2 <hi>Raphael,</hi> and one of <hi>Julio Bonoſon</hi>
+               </item>
+               <item>175 17 of <hi>Schavoni</hi>
+               </item>
+               <item>176 14 of <hi>Carratts, Polydore,</hi> and others</item>
+               <item>177 2 of <hi>Mark Antony</hi>
+               </item>
+               <item>178 2 one the 9 Muſes, of <hi>Mark Antony,</hi> one of <hi>Titians</hi>
+               </item>
+               <item>179 2 large prints of <hi>Paul Veroneſe</hi>
+               </item>
+               <item>180 2 large <hi>Italian</hi> prints</item>
+               <item>181 2 more <hi>Italian</hi>
+               </item>
+               <item>182 2 of <hi>Raphael de Urbin</hi>
+               </item>
+               <item>183 2 of <hi>Raphael de Urbin, Mark Antony</hi>
+               </item>
+               <item>184 <hi>Moſes</hi> Head of <hi>Angelo</hi>'s, an antique</item>
+               <item>185 Envy's Head, from <hi>Michael Angelo</hi>
+               </item>
+               <item>186 A dead Child by <hi>Fiamengo</hi>
+               </item>
+               <item>187 Duke <hi>de Alva</hi>'s Head in Stone</item>
+               <item>188 Another Head</item>
+               <item>189 An Antique in Bas-Relieuf</item>
+               <item>190 A Lion</item>
+               <item>191 2 Horſes in Bas-Relieuf</item>
+               <item>192 A Sacrifice in Bas-Relieuf</item>
+               <item>193 A Vanity in Stone</item>
+               <item>194 18 Bible Stories</item>
+               <item>195 18 Mote Bible Stories by <hi>Stradanus</hi>
+               </item>
+               <item>196 18 Bible Stories by <hi>Collaert</hi>
+               </item>
+               <item>197 <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> large Heads after <hi>Lilly,</hi> and other Maſters</item>
+               <item>198 6 Heads of <hi>Nantucil</hi> and other Maſters</item>
+               <item>199 4 Half length poſtures, after <hi>Titian</hi> and <hi>Van Dyck</hi>
+               </item>
+               <pb n="5" facs="tcp:38490:6"/>
+               <item>200 6 Heads of <hi>Van Dyck, Bloteling,</hi> and other maſters</item>
+               <item>201 6 large Landskips of <hi>Vinckaboons</hi>
+               </item>
+               <item>202 6 more Landskips after the ſame maſter</item>
+               <item>203 The life of Chriſt, in 41 plates, after an <hi>Italian</hi>
+               </item>
+               <item>204 The ſix days Work, of <hi>Abraham Bloamert</hi>
+               </item>
+               <item>205 6 large Heads after <hi>Rubens,</hi> and others</item>
+               <item>206 4 prints of <hi>Julio Romano,</hi> &amp;c.</item>
+               <item>207 3 prints of <hi>Raphael Urbin</hi>
+               </item>
+               <item>208 3 <hi>Italian</hi> prints</item>
+               <item>209 2 large prints of <hi>Mark Antony</hi>
+               </item>
+               <item>211 2 large prints of <hi>Permenſis</hi>
+               </item>
+               <item>212 2 large <hi>Italian</hi> prints of <hi>Raphael Urbin</hi>
+               </item>
+               <item>213 2 large prints of <hi>Mantuanus</hi>
+               </item>
+               <item>214 2 Ditto, of <hi>Raphael Urbin</hi>
+               </item>
+               <item>215 3 prints of <hi>Mark Antony</hi>
+               </item>
+               <item>216 4 <hi>Italian</hi> prints of <hi>Bonnaſone,</hi> and others</item>
+               <item>217 The Marriage of <hi>Pſyche</hi> by <hi>Raphael</hi>
+               </item>
+               <item>218 2 <hi>Italian</hi> prints of <hi>Franciſco Roſſi</hi>
+               </item>
+               <item>219 2 large prints of <hi>Rubens</hi> and <hi>Van Dyck</hi>
+               </item>
+               <item>220 2 large prints of <hi>Paul Veroneſe</hi>
+               </item>
+               <item>221 The K. &amp; Q. of <hi>Van Dyck,</hi> and the birth of the P. of O.</item>
+               <item>222 2 Bacchanals of <hi>Andrea Montagnie</hi>
+               </item>
+               <item>223 4 prints of <hi>Permenſis, &amp;c.</hi>
+               </item>
+               <item>224 2 prints of <hi>Raphael Urbin</hi>
+               </item>
+               <item>225 2 large prints of <hi>Julio Bonnaſone</hi>
+               </item>
+               <item>226 3 large <hi>Italian</hi> prints of <hi>Julio Romano</hi>
+               </item>
+               <item>227 4 prints of <hi>Molo, Pouſſin,</hi> and others</item>
+               <item>228 6 large <hi>Italian</hi> prints</item>
+               <item>229 4 large <hi>Italian</hi> prints of <hi>Mantuanus,</hi> and others</item>
+               <item>230 2 prints of <hi>Raphael Urbin</hi> and <hi>Mark Antony</hi>
+               </item>
+               <item>231 2 prints of <hi>Permenſis</hi> and <hi>Bologne</hi>
+               </item>
+               <item>232 2 prints of <hi>Mark Antony</hi> and <hi>Urbin</hi>
+               </item>
+               <item>233 2 large <hi>Italian</hi> prints</item>
+               <item>234 2 prints of <hi>Mark Antony</hi>
+               </item>
+               <item>235 2 large prints of <hi>Julio Romano</hi> and <hi>Titian</hi>
+               </item>
+               <item>236 3 large prints of <hi>Mantuanus</hi>
+               </item>
+               <item>237 2 <hi>Italian</hi> prints</item>
+               <item>238 5 <hi>Italian</hi> prints of <hi>Spaniolet</hi> and others</item>
+               <item>239 3 prints of <hi>Lacaon</hi>
+               </item>
+               <item>240 2 <hi>Italian</hi> prints, one of them <hi>Permenſis</hi>
+               </item>
+               <item>241 4 prints of <hi>Mark Antony</hi> and <hi>Raphael</hi>
+               </item>
+               <item>242 2 prints of <hi>Bonnaſone</hi> and <hi>Bologne</hi>
+               </item>
+               <item>243 2 prints of <hi>Raphael Urbin</hi>
+               </item>
+               <item>244 2 prints of <hi>Titian</hi>
+               </item>
+               <item>245 2 prints more of <hi>Titians</hi>
+               </item>
+               <item>246 2 prints more of <hi>Titian</hi>
+               </item>
+               <item>247 8 prints after <hi>Titian, Albert Durer,</hi> and others</item>
+               <item>248 8 large prints after <hi>Carratt, Van Dyck,</hi> and <hi>Viſscher</hi>
+               </item>
+               <item>249 a curious collection of <hi>Albert Durer</hi>'s prints</item>
+               <item>250 18 prints of <hi>Collaert</hi>'s Bible-ſtories</item>
+               <pb n="6" facs="tcp:38490:7"/>
+               <item>351 2 large prints of the K. of <hi>France,</hi> and the <hi>Dauphin,</hi> by</item>
+               <item>
+                  <hi>Pitau</hi>
+               </item>
+               <item>252 6 large Bible-ſtories</item>
+               <item>253 6 more large Bible-ſtories</item>
+               <item>254 8 <hi>Italian</hi> ſtories</item>
+               <item>255 12 Bible-ſtories by <hi>Baſan,</hi> and others</item>
+               <item>256 12 more Bible-ſtories, after ſeveral <hi>Italian</hi> maſters</item>
+               <item>257 7 Heads by modern maſters</item>
+               <item>258 6 ſtories after <hi>Rubens,</hi> and <hi>Permenſe,</hi> &amp;c.</item>
+               <item>259 3 large prints of <hi>Bonnaſone</hi> and others</item>
+               <item>260 2 <hi>Italian</hi> prints, one of them a Cieling piece</item>
+               <item>261 2 large <hi>Italian</hi> prints, one of them of <hi>Titian</hi>
+               </item>
+               <item>262 3 large <hi>Italian</hi> prints</item>
+               <item>263 2 of <hi>Polydore</hi>
+               </item>
+               <item>264 1 large print of <hi>Pouſſin</hi>
+               </item>
+               <item>265 43 of <hi>Guido Reni</hi>
+               </item>
+               <item>266 3 of <hi>Raphael</hi> and <hi>Mark Antony</hi>
+               </item>
+               <item>267 3 of <hi>Peter Teſt</hi>
+               </item>
+               <item>268 3 <hi>Italian</hi> prints, 2 of <hi>Mark Antony</hi>
+               </item>
+               <item>269 4 of divers maſters</item>
+               <item>270 12 of <hi>Tintoret</hi>
+               </item>
+               <item>271 10 of <hi>Fetti</hi>
+               </item>
+               <item>272 6 of <hi>Bellino</hi>
+               </item>
+               <item>273 11 of <hi>Gergoon</hi>
+               </item>
+               <item>274 3 of <hi>Mark Antony</hi>
+               </item>
+               <item>275 3 of <hi>Raphael</hi>
+               </item>
+               <item>276 1 large Cieling piece of <hi>Pouſſin</hi>
+               </item>
+               <item>277 4 Sheets <hi>de triumph</hi> of <hi>Conſtantine</hi> of <hi>Le Brun</hi>
+               </item>
+               <item>278 14 curious grand Cities of <hi>Europe</hi>
+               </item>
+               <item>279 6 heads of Modern Commanders</item>
+               <item>280 9 heads of Famous men</item>
+               <item>281 6 heads more of Ditto</item>
+               <item>282 6 large ſtories after <hi>Ruben, Van Dyck,</hi> and others</item>
+               <item>283 8 large heads of the Prophets curiouſly done</item>
+               <item>284 15 prints of Fountains, <hi>&amp;c.</hi>
+               </item>
+               <item>285 7 <hi>Italian</hi> prints</item>
+               <item>286 6 Bible-ſtories <hi>Stradamus</hi>
+               </item>
+               <item>287 8 prints of <hi>Chauvau, Baſan,</hi> &amp;c.</item>
+               <item>288 7 prints of <hi>Della Bella</hi>'s Scenes</item>
+               <item>289 6 prints of <hi>Villamena, Goltzius,</hi> and others</item>
+               <item>290 4 heads of <hi>Nantueil,</hi> &amp;c. and 2 poſtures of <hi>Goltzius</hi>
+               </item>
+               <item>291 6 whole length poſtures</item>
+               <item>292 6 heads of Noble men</item>
+               <item>293 12 ſmall prints curiouſly Grav'd by ſeveral maſters</item>
+               <item>294 12 more, Ditto</item>
+               <item>295 4 prints <hi>Jan de Bologne</hi>
+               </item>
+               <item>296 4 of <hi>Raphael</hi> and others</item>
+               <item>297 The Triumph of <hi>Conſtantine,</hi> by <hi>Andrew Mantegna,</hi> Wooden</item>
+               <item>cuts</item>
+               <item>298 3 <hi>Italian</hi> prints</item>
+               <item>299 50 prints of Architect</item>
+               <item>300 2 large <hi>Italian</hi> prints</item>
+               <pb n="7" facs="tcp:38490:7"/>
+               <item>301 3 <hi>Italians</hi>
+               </item>
+               <item>302 3 of <hi>Titian</hi>
+               </item>
+               <item>303 6 of <hi>Raphael</hi> and <hi>Mark Antony</hi>
+               </item>
+               <item>304 4 <hi>Annibal Carrats</hi>
+               </item>
+               <item>305 2 <hi>Italian</hi> prints</item>
+               <item>306 4 of <hi>Raphael Tintoret,</hi> and others</item>
+               <item>307 5 of <hi>Guido Reni,</hi> and other maſters</item>
+               <item>308 3 of <hi>Titian</hi>
+               </item>
+               <item>309 16 large Triumphs of <hi>Tempeſt</hi>
+               </item>
+               <item>310 8 large ones of <hi>Titian, Rubens,</hi> and <hi>Van Dyck</hi>
+               </item>
+               <item>311 7 of <hi>Julio Romano</hi>'s fall of the Giants</item>
+               <item>312 12 Views of <hi>Paris,</hi> by <hi>Sylveſter</hi>
+               </item>
+               <item>313 Several pieces of plaiſter</item>
+               <item>314 Several Boys heads</item>
+               <item>315 Several heads</item>
+               <item>316 A flying <hi>Cupid</hi> of <hi>Fiameneſo</hi>
+               </item>
+               <item>317 A very fine Layman</item>
+               <item>318 A head of <hi>Marc. Aurelii</hi>
+               </item>
+               <item>319 <hi>Plato</hi>'s Head</item>
+               <item>320 An antique head of <hi>Flora</hi>
+               </item>
+               <item>321 An antique figure of Alabaſter</item>
+               <item>322 6 large Bible-ſtories</item>
+               <item>323 6 more of Ditto</item>
+               <item>324 8 heads, and whole length poſtures</item>
+               <item>325 5 large prints of <hi>Goltzius</hi> and others</item>
+               <item>326 12 leaves of <hi>Pontre</hi>'s Views, curiouſly done</item>
+               <item>327 A book of <hi>Tempeſt</hi>'s Hunting</item>
+               <item>328 A Book of <hi>Italian</hi> Landskips</item>
+               <item>329 2 large prints of <hi>Bourdon,</hi> curiouſly grav'd</item>
+               <item>330 6 <hi>Italian</hi> prints of <hi>Perier,</hi> and others</item>
+               <item>331 6 large Scripture-ſtories after <hi>Jordaen</hi>
+               </item>
+               <item>332 6 more large Scripture-ſtories by <hi>Martin de Voſs</hi>
+               </item>
+               <item>333 6 more, Dico, by <hi>Martin de Voſs</hi>
+               </item>
+               <item>334 The 3 Wraſtlers by <hi>Muller</hi>
+               </item>
+               <item>335 12 Views of <hi>Parel</hi>
+               </item>
+               <item>336 5 of <hi>Raphael Urbin</hi> and <hi>Van Dyck</hi>
+               </item>
+               <item>337 3 Landskips of <hi>Titian</hi>
+               </item>
+               <item>338 6 of <hi>Titian</hi> and others</item>
+               <item>339 2 large prints of <hi>Titian</hi> and <hi>Vilamena</hi>
+               </item>
+               <item>340 <hi>Saul</hi> going to <hi>Damaſcus</hi> of <hi>Francis Floris</hi>
+               </item>
+               <item>341 5 large <hi>French</hi> prints</item>
+               <item>342 A large head of K. <hi>Charles</hi> II. by <hi>Vanderbranc</hi>
+               </item>
+               <item>343 2 prints of K. <hi>William,</hi> and K. <hi>James</hi> on Horſeback</item>
+               <item>344 6 Bible-Hiſtories after <hi>Rubens,</hi> and others</item>
+               <item>345 6 Scripture-ſtories more after <hi>Rubens,</hi> &amp;c.</item>
+               <item>346 6 Ditto, by ſeveral maſters</item>
+               <item>347 6 large Bible-Hiſtories after <hi>Bloemart</hi> and others</item>
+               <item>348 15 <hi>Dutch</hi> Mechanicks at work, after <hi>Raembrant</hi>
+               </item>
+               <item>349 A book curious proſpects by <hi>Le Petre</hi>
+               </item>
+               <item>350 <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>tories after <hi>Savery, Rubens,</hi> &amp;c.</item>
+               <pb n="8" facs="tcp:38490:8"/>
+               <item>351 6 more Ditto, after <hi>Rubens,</hi> &amp;c.</item>
+               <item>352 <hi>Carratts</hi> Drawing-book, <hi>&amp;c.</hi>
+               </item>
+               <item>353 <hi>Le Potres</hi> Story of <hi>Seneca,</hi> &amp;c.</item>
+               <item>354 4 curious leaves of Fruit</item>
+               <item>355 A book of 12 leaves, containing divers pieces of War</item>
+               <item>356 6 large Bible-ſtories after <hi>Le Brun,</hi> and others</item>
+               <item>357 6 large ſtories after <hi>Jordaens</hi>
+               </item>
+               <item>358 6 more after <hi>Rubens,</hi> and other maſters</item>
+               <item>359 5 prints of Shipping, of <hi>Zeeman</hi>
+               </item>
+               <item>360 8 Landskips by <hi>Sadler,</hi> and other maſters</item>
+               <item>361 9 large Landskips by <hi>Perelle,</hi> and other maſters</item>
+               <item>362 Hiſtory of the Prodigal Son, with 6 more <hi>Ital.</hi> prints</item>
+               <item>363 5 large prints after <hi>Italian</hi> maſters</item>
+               <item>364 6 large Bible-ſtories after <hi>Le Brun,</hi> and others</item>
+               <item>365 6 heads by <hi>Poilly,</hi> and other maſters</item>
+               <item>366 6 heads by <hi>Van Schuppen Pont<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s,</hi> and other maſters</item>
+               <item>367 6 heads by <hi>Boulanger, Nantueil,</hi> and other maſters</item>
+               <item>368 4 large heads by <hi>B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>delinck, Jode</hi> and other maſters</item>
+               <item>369 6 large heads by <hi>Snyderboef Hondius,</hi> and others</item>
+               <item>370 6 large Heads by <hi>Delphe, Hendius,</hi> and others</item>
+               <item>371 6 large heads by <hi>Wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e, Delphe,</hi> and others</item>
+               <item>372 8 heads by <hi>Nantueil, Lombart,</hi> and other maſters</item>
+               <item>373 6 heads by <hi>Nantueil, Lombart,</hi> and others</item>
+               <item>374 6 heads by <hi>Sny<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>oef Sadler,</hi> and other maſters</item>
+               <item>375 14 large prints of Chriſt and his Apoſtles, <hi>&amp;c.</hi>
+               </item>
+               <item>376 6 prints of Holy men and Women</item>
+               <item>377 24 heads of Holy men, and others</item>
+               <item>378 6 heads by <hi>Poilly, Boulanger,</hi> and other maſters</item>
+               <item>379 7 heads by <hi>Melan, Nantueil, White,</hi> and other maſters</item>
+               <item>380 1 large head of <hi>Marſhal Turene,</hi> curiouſly grav'd</item>
+               <item>381 24 heads by ſeveral maſters</item>
+               <item>382 24 heads by ſeveral modern maſters</item>
+               <item>383 5 of <hi>Georgie Vaſari</hi> and others</item>
+               <item>384 3 of <hi>Parmenſis</hi> and others</item>
+               <item>385 3 of <hi>Michael Angelo</hi> &amp;c.</item>
+               <item>386 3 of <hi>Georgio Mantuano</hi>
+               </item>
+               <item>387 4 of <hi>Mark Antony</hi> and others</item>
+               <item>388 4 of <hi>Georgian</hi> and <hi>Titian</hi>
+               </item>
+               <item>389 3 of <hi>Raphael Urbin</hi> and <hi>Mark Antony</hi>
+               </item>
+               <item>390 4 <hi>Niobe</hi> of <hi>Polydore</hi>
+               </item>
+               <item>391 4 <hi>Italian</hi> Prints</item>
+               <item>392 8 of <hi>Raphael</hi> and <hi>Mark Antony</hi>
+               </item>
+               <item>393 3 of <hi>Raphael Urbin</hi>
+               </item>
+               <item>394 10 heads of <hi>Sadler</hi>
+               </item>
+               <item>395 1 a Dream of <hi>Raphael Urbin, Mark Antony</hi>
+               </item>
+               <item>396 3, 2 of <hi>Van Dyck,</hi> 1 <hi>Marcellus Venuſtus</hi>
+               </item>
+               <item>397 6 <hi>Hannibal Carats</hi>
+               </item>
+               <item>398 8 <hi>Rubens</hi> and others</item>
+               <item>399 4 Evangeliſts of <hi>Mark Antony</hi>
+               </item>
+               <item>400 3 of <hi>Petro Corton,</hi> and <hi>Titian</hi>
+               </item>
+               <pb n="9" facs="tcp:38490:8"/>
+               <item>401 2 Mans Antique</item>
+               <item>402 A <hi>Grecian, Venus</hi> and two others</item>
+               <item>403 4 Heads</item>
+               <item>404 2 Bodies and a Child</item>
+               <item>405 4 Heads of Children</item>
+               <item>406 An Old mans head, and a Fool on a Horſe</item>
+               <item>407 Several heads</item>
+               <item>408 3 of <hi>Mark Antony, Bologne,</hi> &amp;c.</item>
+               <item>409 Hiſtory of the <hi>Turks</hi> Factions</item>
+               <item>410 6 Bas-Relieuſs of <hi>Polydore,</hi> &amp;c.</item>
+               <item>411 16 of <hi>Albert Durer</hi>
+               </item>
+               <item>412 11 Triumphs of <hi>Rome</hi>
+               </item>
+               <item>413 10 Bas-Relieuſs of <hi>Polydore</hi>
+               </item>
+               <item>414 12 <hi>Caeſars</hi> on Horſeback</item>
+               <item>415 4 Sheets of <hi>Roman</hi> Bas-Relieufs</item>
+               <item>416 3 of <hi>Michael Angelo, Raphael,</hi> &amp;c.</item>
+               <item>417 2 large <hi>Italian</hi> prints</item>
+               <item>418 6 couple of <hi>Corregio</hi>
+               </item>
+               <item>419 1 large print of <hi>Test</hi>
+               </item>
+               <item>420 4 <hi>Italian</hi> Antiquities</item>
+               <item>421 3 of <hi>Raphael, Mark Antony,</hi> &amp;c.</item>
+               <item>422 2 <hi>Carolus Saracenn's Venetus</hi>
+               </item>
+               <item>423 3 of <hi>Pouſſin</hi>
+               </item>
+               <item>424 2 of <hi>Paulo Veroneſe, Pouſſin</hi>
+               </item>
+               <item>425 1 large of <hi>Varotius</hi>
+               </item>
+               <item>426 3 of <hi>Carats</hi>
+               </item>
+               <item>427 1 the killing of the Children, by <hi>Rubens</hi>
+               </item>
+               <item>428 2 large Triumphs of <hi>L'anfranco</hi>
+               </item>
+               <item>429 8 of <hi>Bourgogniou, Varotius,</hi> &amp;c.</item>
+               <item>430 A Salutation of <hi>Elizabeth Mantuanus</hi>
+               </item>
+               <item>431 3 of <hi>Raphael Urbin, Mark Antony</hi>
+               </item>
+               <item>432 2 of <hi>Raphael Urbin, Mark Antony</hi>
+               </item>
+               <item>433 12 <hi>Caeſars,</hi> whole lengths</item>
+               <item>434 12 Views of <hi>France</hi>
+               </item>
+               <item>435 6 of <hi>Raphael Urbin, Julio Romano</hi>
+               </item>
+               <item>436 7 of <hi>Pedro Cortonenſis</hi>
+               </item>
+               <item>437 5 Children playing, by <hi>Raphael Urbin, M. Antony</hi>
+               </item>
+               <item>438 3 of <hi>Mark Antony,</hi> &amp;c.</item>
+               <item>439 4 of <hi>Titian</hi>
+               </item>
+               <item>440 2 Heads of <hi>Zuccharo</hi> and <hi>Carats</hi>
+               </item>
+               <item>441 6 Landskips of <hi>Titian</hi>
+               </item>
+               <item>442 3 of <hi>Titian</hi> and <hi>Teſta</hi>
+               </item>
+               <item>443 9 of <hi>Baſan</hi>
+               </item>
+               <item>444 12 of <hi>Baſan</hi>
+               </item>
+               <item>445 16 of <hi>Paulo Veroneſe</hi>
+               </item>
+               <item>446 1 large of <hi>Raphael Urbin</hi>
+               </item>
+               <item>447 2 <hi>Italian</hi> prints</item>
+               <item>448 A large piece of <hi>Pedro Cortonenſis</hi>
+               </item>
+               <item>449 8 of <hi>Raphael Urbin</hi> and others</item>
+               <item>450 3 <hi>Italian</hi> prints</item>
+               <pb n="10" facs="tcp:38490:9"/>
+               <item>451 3 more <hi>Italian</hi> prints</item>
+               <item>452 3 more <hi>Italian</hi> prints</item>
+               <item>453 4 large Bas-Relieufs, by <hi>Raphael Urbin</hi>
+               </item>
+               <item>454 4 of <hi>Caſtillion, Petro, Teſta,</hi> and <hi>Parmens</hi>
+               </item>
+               <item>455 1 of <hi>Titians</hi> large Ecce Homo</item>
+               <item>456 19 large prints of <hi>Albert Durer</hi>
+               </item>
+               <item>457 A Slave after <hi>Michael Angelo</hi> of ſtone</item>
+               <item>458 A naked ſhining <hi>Venus</hi> of ſtone, of <hi>Palidanus</hi>
+               </item>
+               <item>459 2 of <hi>Mercurio</hi>
+               </item>
+               <item>460 Several pieces of Plaiſter</item>
+               <item>461 A Figure upon Slaves</item>
+               <item>462 A Boy of <hi>Flamingo</hi> in braſs</item>
+               <item>463 An <hi>Antony</hi> in braſs</item>
+               <item>464 A Horſe in braſs</item>
+               <item>465 An <hi>Hercules</hi> in braſs, of <hi>Jane de Bolone</hi>
+               </item>
+               <item>466 An <hi>Antony</hi> of <hi>Jane de Bolone</hi>
+               </item>
+               <item>467 An Antique in braſs</item>
+               <item>468 6 prints of <hi>Titian</hi>
+               </item>
+               <item>669 1 large print of <hi>Pouſſin</hi>
+               </item>
+               <item>470 3 prints of Robberies of <hi>Woverman</hi>
+               </item>
+               <item>471 4 of <hi>Titian</hi> and <hi>Fetty</hi>
+               </item>
+               <item>472 2 large prints of <hi>Tintoret,</hi> and <hi>Aug. Carats</hi>
+               </item>
+               <item>473 2 prints of <hi>Voet</hi>
+               </item>
+               <item>474 2 prints of <hi>Cla. Scuro,</hi> and <hi>Raph. Da Reſſio</hi>
+               </item>
+               <item>475 7 prints of <hi>Haemskirk</hi> and <hi>Goltzius</hi>
+               </item>
+               <item>476 22 prints of <hi>Julio Boniſone</hi>
+               </item>
+               <item>477 12 prints of <hi>Hanibal Carats Venus's</hi>
+               </item>
+               <item>478 30 prints of Deaths Dance, after <hi>Holbein</hi>
+               </item>
+               <item>479 10 Virgin <hi>Marys,</hi> &amp;c. by ſev. <hi>Italian</hi> maſters</item>
+               <item>480 3 prints of <hi>Lanfrank Albanus,</hi> &amp;c.</item>
+               <item>481 4 prints of <hi>Bourdone, Pouſſin,</hi> &amp;c.</item>
+               <item>482 4 prints of <hi>Julio Romano</hi>
+               </item>
+               <item>483 20 prints of Gods and God deſſes, by an <hi>Ital.</hi> maſt.</item>
+               <item>484 6 prints of <hi>Madona</hi>'s by <hi>Raph. Urbin</hi> and others</item>
+               <item>485 6 <hi>Ital.</hi> prints by <hi>Raph. Urbin, Clavo Scuro,</hi> &amp;c.</item>
+               <item>486 2 <hi>French</hi> prints by <hi>Guido</hi>
+               </item>
+               <item>487 2 prints of <hi>Pouſſin, Salviate,</hi> &amp;c.</item>
+               <item>488 6 large prints of <hi>Michael Angelo</hi>
+               </item>
+               <item>189 4 prints of <hi>Raphael Urbin,</hi> and others</item>
+               <item>190 4 prints of <hi>Peter Teſta</hi>
+               </item>
+               <item>191 7 <hi>Italian Madona's</hi>
+               </item>
+               <item>192 4 hacchanals by <hi>Raphael Urbin,</hi> and others</item>
+               <item>193 4 large prints of <hi>Le Brun, Pouſſin, Sadler</hi>
+               </item>
+               <item>194 6 Sea Triumphs by <hi>Italian</hi> maſters</item>
+               <item>195 2 large prints of <hi>Romanel,</hi> and <hi>Pouſſin</hi>
+               </item>
+               <item>196 2 large prints of <hi>Clavo Scuro</hi>
+               </item>
+               <item>197 <hi>Raphaels Neptune</hi> by <hi>Mark Antony</hi>
+               </item>
+               <item>198 7 prints of <hi>Chauveau</hi>
+               </item>
+               <item>199 18 prints of <hi>Brebiette</hi>
+               </item>
+               <item>500 19 prints of <hi>Chauveau</hi>
+               </item>
+               <pb n="11" facs="tcp:38490:9"/>
+               <item>501 6 prints of <hi>Claurus Scuro</hi>
+               </item>
+               <item>502 7 prints of <hi>Raphael Urbin</hi> and <hi>Rubens</hi>
+               </item>
+               <item>503 4 prints of <hi>Raphael Urbin</hi> and <hi>Clavo Scuro</hi>
+               </item>
+               <item>504 3 Cieling-pieces of <hi>Peter Courtogne</hi>
+               </item>
+               <item>505 6 of <hi>Simon Voet</hi>
+               </item>
+               <item>506 10 Vaſſes of <hi>Polidore</hi>
+               </item>
+               <item>507 4 prints of <hi>Urbin</hi> and <hi>Clarus Scuro</hi>
+               </item>
+               <item>508 6 prints of <hi>Paul Rubens</hi>
+               </item>
+               <item>509 20 prints of <hi>Francis Roſs</hi>
+               </item>
+               <item>510 12 Sea Nymphs</item>
+               <item>511 16 prints of Architecture</item>
+               <item>512 <hi>Raphael Urbins</hi> Bible by Chapperon</item>
+               <item>513 A naked ſitting <hi>Venus</hi> and <hi>Cupid</hi> of ſtone</item>
+               <item>514 3 Pedlars of <hi>Fiamengo</hi>
+               </item>
+               <item>515 A ſleeping Child of <hi>Fiamengo</hi>
+               </item>
+               <item>516 A Layman very fine</item>
+               <item>517 A Model in ſtone, of a Blackmoor</item>
+               <item>518 A whole Antique Bowman of Alabaſter</item>
+               <item>519 A Fortune</item>
+               <item>520 A Boy of <hi>Flamingo</hi> in braſs</item>
+               <item>521 A Horſe in braſs</item>
+               <item>522 An Anatomy in braſs, of <hi>Jan de Bologne</hi>
+               </item>
+               <item>523 Two Antique Leggs in braſs</item>
+               <item>524 4 large ſheets of <hi>Dominicin</hi> Cieling-pieces</item>
+               <item>525 10 prints of <hi>Titian</hi>
+               </item>
+               <item>526 12 — of <hi>Palma</hi>
+               </item>
+               <item>527 9 — of <hi>Palma</hi>
+               </item>
+               <item>528 16 — of <hi>Titian</hi> and <hi>Palma</hi>
+               </item>
+               <item>529 2 large prints of <hi>Titian</hi>
+               </item>
+               <item>530 7 prints of <hi>Caſtillion</hi>
+               </item>
+               <item>531 The Prodigal Son, by <hi>Peter Teſta</hi>
+               </item>
+               <item>532 4 prints of Boys, by <hi>Holſtein</hi>
+               </item>
+               <item>533 7 — of <hi>Roman</hi> Antiquities</item>
+               <item>534 12 Boys of <hi>Gua. Villane</hi>
+               </item>
+               <item>535 9 Gods and Goddeſſes of <hi>Veroneſe</hi>
+               </item>
+               <item>536 8 <hi>Roman</hi> Sacrifices</item>
+               <item>537 19 prints of <hi>Raphaels</hi> Bible</item>
+               <item>538 2 large prints of <hi>Titian</hi>
+               </item>
+               <item>539 2 large prints of <hi>Julius Romanus</hi>
+               </item>
+               <item>540 12 ſheets of <hi>Titians Pharoah</hi> in the Red Sea</item>
+               <item>541 4 prints of <hi>Peter Teſta</hi>
+               </item>
+               <item>542 15 Children of <hi>Raphael Urbin</hi>
+               </item>
+               <item>543 6 Metzo-tinto</item>
+               <item>544 7 prints by <hi>Italian</hi> maſters</item>
+               <item>545 4 prints of <hi>Voet</hi>
+               </item>
+               <item>546 12 half lengths by <hi>Lombaert</hi> of <hi>Van Dyck</hi>
+               </item>
+               <item>547 15 prints of <hi>Raphael Urbin</hi>
+               </item>
+               <item>548 6 prints of <hi>Michael Angelo</hi> and <hi>Bolone</hi>
+               </item>
+               <item>549 12 <hi>French</hi> proſpects of <hi>Parella</hi>
+               </item>
+               <item>550 12 prints of <hi>Potre</hi> and others</item>
+               <pb n="12" facs="tcp:38490:10"/>
+               <item>551 16 Fountains by <hi>Paulus Vienna</hi>
+               </item>
+               <item>552 11 Triumphs of <hi>Conſtantine</hi>
+               </item>
+               <item>553 12 of <hi>Raphael Urbins Cupid</hi> and <hi>Pſyche</hi>
+               </item>
+               <item>554 6 Triumphs and Bacchanals</item>
+               <item>555 6 large prints by <hi>Voet</hi>
+               </item>
+               <item>556 14 Landskips</item>
+               <item>557 12 <hi>French</hi> proſpects</item>
+               <item>558 12 Empreſſes of <hi>Titian</hi>
+               </item>
+               <item>559 24 Landskips of <hi>Titian</hi>
+               </item>
+               <item>560 <hi>Lautimus</hi>
+               </item>
+               <item>561 A naked Cupid</item>
+               <item>562 An Antique <hi>Hercules</hi> of ſtone</item>
+               <item>563 A <hi>Diana</hi> finely cut in Wood</item>
+               <item>564 A naked sybil Writing and Reading</item>
+               <item>565 A great <hi>Hercules</hi> with a Dragon</item>
+               <item>566 <hi>Hercules</hi> and <hi>Dianira</hi> of ſtone</item>
+               <item>567 A naked Woman of ſtone, after the life</item>
+               <item>568 A Lying Woman of ſtone, after <hi>Michael Angelo</hi>
+               </item>
+               <item>569 A <hi>Moſes</hi> of ſtone, after <hi>Michael Angelo</hi>
+               </item>
+               <item>570 2 Feet</item>
+               <item>571 2 prints of <hi>Roſſi</hi>
+               </item>
+               <item>572 3 of <hi>Rubens</hi> and <hi>Van Dyck</hi>
+               </item>
+               <item>573 10 sybils</item>
+               <item>574 12 of <hi>Raphael Urbin</hi>
+               </item>
+               <item>575 12 Apoitles of <hi>parmenſie</hi>
+               </item>
+               <item>576 13 Apoitles of <hi>Raphael Urbin, Mark Antony</hi>
+               </item>
+               <item>577 18 proſpects of <hi>Parel</hi>
+               </item>
+               <item>578 The 4 Elements of <hi>Raphael Urbin</hi>
+               </item>
+               <item>579 6 large of <hi>Parel</hi>
+               </item>
+               <item>580 25 Horſes of <hi>Tempeſt</hi>
+               </item>
+               <item>581 22 ornaments of mirth</item>
+               <item>582 20 proſpects of <hi>Parel</hi>
+               </item>
+               <item>583 6 <hi>Italian</hi> Landskips</item>
+               <item>584 12 Landskips by <hi>Parel</hi>
+               </item>
+               <item>585 4 Bacchanals of <hi>Andrea Poteſta</hi>
+               </item>
+               <item>586 12 <hi>Italian</hi> terms</item>
+               <item>587 12 proſpects of <hi>Parel</hi>
+               </item>
+               <item>588 32 Accademy figures</item>
+               <item>589 12 of <hi>Julio Romano</hi>
+               </item>
+               <item>590 2 ſheets of the Tent of <hi>Darius</hi> of <hi>Le Brun</hi>
+               </item>
+               <item>591 <hi>Le Bruns</hi> head by <hi>Edline</hi>
+               </item>
+               <item>592 A large <hi>Mary Magdalen</hi> by <hi>Champaign</hi>
+               </item>
+               <item>593 8 prints by <hi>Polidore</hi>
+               </item>
+               <item>594 3 heads of <hi>Titian</hi>
+               </item>
+               <item>595 8 of <hi>Titian</hi>
+               </item>
+               <item>596 6 Martyrs of <hi>Reating</hi>
+               </item>
+               <item>597 8 prints of <hi>De la Bel</hi>
+               </item>
+               <item>598 39 prints of Architecture</item>
+               <item>599 8 Boys</item>
+               <item>600 The raiſing of <hi>Lazarus,</hi> by <hi>Touſſin</hi>
+               </item>
+               <pb n="13" facs="tcp:38490:10"/>
+               <item>601 The Hiſtory of Queen <hi>Easter</hi> by <hi>Pouſſin</hi>
+               </item>
+               <item>602 2 large prints by <hi>Pouſſin</hi>
+               </item>
+               <item>603 10 prints of <hi>Titian</hi>
+               </item>
+               <item>604 10 Landskips by <hi>Perrelle</hi>
+               </item>
+               <item>605 7 prints of <hi>Goltzius</hi>
+               </item>
+               <item>606 12 prints of <hi>Parelle</hi> and <hi>Potre</hi>
+               </item>
+               <item>607 12 Emperours of <hi>Titian</hi>
+               </item>
+               <item>608 4 prints of <hi>Bologne</hi>
+               </item>
+               <item>609 3 prints, one of <hi>Mark Antony,</hi> and 3 <hi>Permenſis</hi>
+               </item>
+               <item>611 A large Crucifix of <hi>Pouſſin</hi>
+               </item>
+               <item>612 3 ſheets of a large Crucifix of <hi>Rubens</hi>
+               </item>
+               <item>613 2 ſheets of the Red Sea of <hi>Le Brun</hi>
+               </item>
+               <item>614 8 of <hi>Frank Permigiano</hi>
+               </item>
+               <item>615 <hi>Titians</hi> large Ecce Homo</item>
+               <item>616 A preſentation of <hi>Rubens</hi>
+               </item>
+               <item>617 2 large ſheets of <hi>Pouſſin</hi>
+               </item>
+               <item>618 A naked ſtanding Woman antique</item>
+               <item>619 A naked Fortune antique</item>
+               <item>620 <hi>Cain</hi> and <hi>Abel</hi> in Alabaſter, of <hi>Jan de Bologne</hi>
+               </item>
+               <item>621 <hi>De Lantinus</hi> antique</item>
+               <item>622 A great Child of <hi>Flamingo</hi>
+               </item>
+               <item>623 A naked <hi>Venus</hi> of ſtone after the life, by <hi>Cardon</hi>
+               </item>
+               <item>624 A Boy in ſheets of <hi>Fiamengo</hi>
+               </item>
+               <item>625 A boy in ſtone of <hi>Quellimis</hi>
+               </item>
+               <item>626 A <hi>Venus</hi> antique</item>
+               <item>627 Several pieces of Plaiſter</item>
+               <item>628 Several pieces, Ditto</item>
+               <item>629 2 Hands</item>
+               <item>630 6 of <hi>Cheveaux, Ovid</hi>
+               </item>
+               <item>631 8 Sheets of flowers</item>
+               <item>632 7 large Sacraments of <hi>Pouſſin</hi>
+               </item>
+               <item>633 9 Huntings of <hi>Tempeſt</hi>
+               </item>
+               <item>634 12 <hi>Le Potre's Geneſis</hi>
+               </item>
+               <item>635 4 large heads of <hi>Rubens</hi> and <hi>Van Dyck</hi>
+               </item>
+               <item>636 10 Cieling pieces of <hi>Le Potre</hi>
+               </item>
+               <item>637 15 Galleries of <hi>Hannibal Carats</hi>
+               </item>
+               <item>638 24 large prints of <hi>Titian</hi> and <hi>Paul Veroneſe</hi>
+               </item>
+               <item>639 12 Views of <hi>Parel</hi>
+               </item>
+               <item>640 4 large Cieling-pieces of <hi>Le Brun</hi>
+               </item>
+               <item>641 10 The Gallery of <hi>Hannibal Carats</hi>
+               </item>
+               <item>642 4 prints of <hi>Dominicin</hi>
+               </item>
+               <item>643 7 Works of Mercy of <hi>Bourdon</hi>
+               </item>
+               <item>644 16 The Gallery of <hi>Pedro Cortonenſis</hi>
+               </item>
+               <item>645 30 The great Gallery of <hi>Carats</hi>
+               </item>
+               <item>646 1 large print of the Battel of <hi>Conſtantine,</hi> by <hi>Raphael Urbin</hi>
+               </item>
+               <item>647 2 large prints of <hi>Jan Bapt. Bertanus</hi> the dry bones, &amp; the Judgm. of <hi>Paris</hi>
+               </item>
+               <item>648 6 of <hi>Raphael Urbin, Mark Antony,</hi> and others</item>
+               <item>649 8 of <hi>Roſſi</hi> and <hi>Diana</hi>
+               </item>
+               <item>650 5 of <hi>Baſſan, Permenſis,</hi> &amp;c.</item>
+               <item>651 3 large prints of <hi>Goltzius,</hi> and others</item>
+            </list>
+         </div>
+         <div type="list">
+            <pb n="14" facs="tcp:38490:11"/>
+            <head>BOOKS:</head>
+            <list>
+               <item>1 ANavigaty into <hi>Turky,</hi> with cuts</item>
+               <item>2 All ſorts of Mechanick Trades</item>
+               <item>3 Diverſe impreſe accommodate a diverſi moralita, <hi>&amp;c.</hi>
+               </item>
+               <item>4 An <hi>Ovid</hi> in three parts</item>
+               <item>5 La Pindare Thebain traduction melee du Vers &amp; du'proſe</item>
+               <item>6 The Art of Painting, by <hi>Franciſcus Junius</hi>
+               </item>
+               <item>7 The Old Teſtament in Wooden Cuts, of <hi>Virgil Solis</hi>
+               </item>
+               <item>8 Regle du cinq ordre des Architecture</item>
+               <item>9 A true deſcript. of the World, with fine cuts, of <hi>Stimmer</hi> and <hi>Virg. Solk</hi>
+               </item>
+               <item>10 Icones Livianae precipuas Romanorum Hiſt. <hi>&amp;c.</hi> par <hi>Virgil Solis</hi>
+               </item>
+               <item>11 Des Argues Rules of perſpect. Dorch A. Boſſe</item>
+               <item>12 Anatomy of <hi>Jacob Vander Gragt</hi>
+               </item>
+               <item>13 Dictionaire Theologique, Hiſtorique, Poetique, <hi>&amp;c.</hi> par D. de Juigne</item>
+               <item>14 Conference de l'academie Royale de peinture &amp; de Sculture, <hi>&amp;c. a Paris</hi>
+               </item>
+               <item>15 Della Simmetria dei corpi humani di Alberto Durero accreſciuti</item>
+               <item>16 Di cinque libri di paſſioni &amp; accidenti humani, <hi>&amp;c.</hi>
+               </item>
+               <item>17 A book of ſeveral fine fancies in wood</item>
+               <item>18 Pollio and Polliphile, with figures</item>
+               <item>19 The Hiſtory of the Art of Calcography, and Engravings in copper</item>
+               <item>20 A <hi>Ovid Virgil Solis</hi>
+               </item>
+               <item>21 <hi>Virgil Solis</hi> Bible Hiſtories</item>
+               <item>22 A Dictionarium and Dutch Francs</item>
+               <item>23 A Dictionarium <hi>Engliſh</hi> and <hi>Dutch</hi>
+               </item>
+               <item>24 Anatomia belonging to Painters, of <hi>Jacob Vander Graght</hi>
+               </item>
+               <item>25 Regle des cinq ordre d'architecture de Vignole</item>
+               <item>26 Bible figures done in Wood, very fine, by <hi>Stimmer</hi>
+               </item>
+               <item>27 The proportion of human bodies of <hi>Albordurs</hi>
+               </item>
+               <item>28 Proſographia ſive Virtutum animi delineata a Philippo Galleo</item>
+               <item>29 Imagines preliorum Veteris Teſtamenti ab Antonio Tempeſta</item>
+               <item>30 Franciſcus Petrarche, with cuts of <hi>Albordur</hi>
+               </item>
+               <item>31 Iconologia overo deſcript. di diverſi imagini, <hi>&amp;c.</hi> da Ceſare ripa perugiue</item>
+               <item>32 Biblia, <hi>&amp;c.</hi> Venetiis MDXCIX. cum figuris</item>
+               <item>33 Trattato del L'Arte della pittura di Gio Paulo Lamazzo diviſo in ſetti libri</item>
+               <item>34 Delle Vite de p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> eccellenti pittori, ſcultori &amp; Architetidi Giorgio Vaſari pittore &amp; Architetto Aretino Libri tre</item>
+               <item>35 Tutte l'opere de l'architettura &amp; proſpectiva di Sebaſtiano Serlio Bo<g ref="char:EOLhyphen"/>logneſe diviſo in ſetti libri</item>
+               <item>36 Methamorphoſeon ſive transformationum Ovidianarum libri quinde<g ref="char:EOLhyphen"/>cim, <hi>&amp;c.</hi> Antonio Tempeſta</item>
+               <item>37 The Emperours Horſes of <hi>Joan Stradano</hi>
+               </item>
+               <item>38 Vitruvius full of Figures. D. qualterium H. Rivium, <hi>&amp;c.</hi>
+               </item>
+               <item>39 An Epitome in large leafs of <hi>Andreo Veſali,</hi> with fine large figures</item>
+               <item>40 Le Travaux d'uliſſe par Van Tulden, after <hi>Bologneſe</hi>
+               </item>
+               <item>41 Traite del Architecture ſuivant vitruve par Julian mauelerc</item>
+               <item>42 Traite del Architecture d'Autels &amp; de Cheminees par J. Barbet</item>
+               <item>43 Architectura univerſale Vincenzo Somozzi</item>
+               <item>44 Bavaria Sancta par Raphaelem Sadeler, tabu lis aeneis expreſſa</item>
+               <item>45 Andrea Vezali de humani corporis fabrica libri ſeptem</item>
+               <pb n="15" facs="tcp:38490:11"/>
+               <item>46 Les quatres livres de l'Architectura d'andre paladio</item>
+               <item>47 Hiſtoria naturalis de quadripedibus piſcibus &amp; avibus inſectis &amp; ſerpentibus cum tabulis pictis</item>
+               <item>48 Le Methamorphoſe d'Ovide en latin &amp; Francois a Bruſſel enrichie de tres belles figures</item>
+               <item>49 Orlando Furioſo di M. Ludovico Arioſto. La transform. di Ludov dolci</item>
+               <item>50 Clovis ou la France Chreſtienne aveq de figures</item>
+               <item>51 Sacra Biblia Durch Joan. Reps 1630. with very fine cuts of <hi>Stimmer</hi>
+               </item>
+               <item>52 Documenti d'amore di M. Franc. Barberino, with fig. of <hi>Petro de Cortone</hi>
+               </item>
+               <item>53 Inſtruct. du Roy de Monter a cheval par pluvinel avec de tres belle fig.</item>
+               <item>54 Philos trate mis en Francois avacq de tres belles figures</item>
+               <item>55 Biblia Sacra ad veteſtiſſima, <hi>&amp;c.</hi> cum Hebreicorum Chaldeorum, &amp; Grecorum nominum interpretationes, <hi>&amp;c.</hi> Lugduni M. D. E. XCX.</item>
+               <item>56 Icones ſegmenta Romana a Franciſco perier</item>
+               <item>57 Leon. da Vinci della pittura. Leon. Babt. Alberti della pittura della ſtatua</item>
+               <item>58 Tablaux du Temples des Muſes avecq de tres belles eſtampes Diepenb.</item>
+               <item>59 Flavius Joſephus and Egeſippus, with fine cuts of <hi>Stimmer</hi>
+               </item>
+               <item>60 Titus Livius, and Lucius Florus, with cuts of <hi>Stimmer</hi> and <hi>Virgil Solis.</hi>
+               </item>
+               <item>61 Aedes Barbarinae ad quirinalem, <hi>&amp;c.</hi> pictae a Petro Cortonenſi</item>
+               <item>62 Habiti Antichi &amp; modermi di tutto il mondo di ceſare Vecello</item>
+               <item>63 A large book with Bible Hiſtories of <hi>Haemskirk,</hi> of the firſt Printings</item>
+               <item>64 Icones principum virorum doct, <hi>&amp;c.</hi> ab Antonio Van Dyck. Of the Heads of Van Dyck, of the beſt Printing, 112 leafs</item>
+               <item>65 Manuſcriptum Vetus de Architectura Grecorum &amp; Romanorum &amp; de ſimmetria corporis humani</item>
+               <item>66 Biblia Sacra Boheems extradinairi, fine wooden cuts</item>
+               <item>67 Les Oevres du Virg. traduit en proſe &amp; dedie au Roy par M. de Marol.</item>
+               <item>68 The Stathaus of <hi>Amſterdam,</hi> the Architect and the Figures</item>
+               <item>69 Auſtriari Gentis imaginim ſive imperatorum Geanologia par Gaſpa<g ref="char:EOLhyphen"/>rum patavinum partes quinque</item>
+               <item>70 The Architecture of <hi>Sebaſtian Cerlius,</hi> 3 books, with 5 orders of Ar<g ref="char:EOLhyphen"/>chitecture of <hi>Hans Bloen</hi>
+               </item>
+               <item>71 Several other books</item>
+            </list>
+         </div>
+         <div type="list">
+            <pb n="16" facs="tcp:38490:12"/>
+            <head>
+               <hi>Italian,</hi> and other Drawings, and Original Car<g ref="char:EOLhyphen"/>tons of <hi>Raphael d'Urbin.</hi>
+            </head>
+            <list>
+               <item>1 TEN Drawings of Heads, ſome after the life</item>
+               <item>2 16 Heads after <hi>Raphael d'Urbin</hi>
+               </item>
+               <item>3 15 Drawings</item>
+               <item>4 19 ſeveral Drawings</item>
+               <item>5 12 Academy Man</item>
+               <item>6 9 Original Drawings</item>
+               <item>7 15 Heads offer the life, and others</item>
+               <item>8 30 Drawings of ſeveral ſorts</item>
+               <item>9 5 Horſes and Dogs</item>
+               <item>10 28 Academy man</item>
+               <item>11 35 Drawings</item>
+               <item>12 18 Academy Man and Children</item>
+               <item>13 24 Heads after <hi>Raphael,</hi> and others</item>
+               <item>14 8 Sketches after the life, in colours</item>
+               <item>15 10 Academy Men</item>
+               <item>16 8 Drawings of Children</item>
+               <item>17 12 Drawings</item>
+               <item>18 28 Drawings</item>
+               <item>19 5 Drawings</item>
+               <item>20 6 half length Drawings, and others</item>
+               <item>21 13 different Hiſtories</item>
+               <item>22 A Drawing of <hi>Corregio,</hi> and <hi>de Ryck</hi>
+               </item>
+               <item>23 8 Drawings of different ſorts</item>
+               <item>24 2 Drawings a Lady whole length, and a <hi>Galatea</hi> of <hi>de Ryck</hi>
+               </item>
+               <item>25 4 Drawings of <hi>de Ryck</hi>
+               </item>
+               <item>26 6 Drawings; boys a playing with Carts, and the Holy Family, of <hi>de Ryck,</hi> and others</item>
+               <item>27 A Drawing of <hi>Veroneſe</hi>
+               </item>
+               <item>28 3 Drawings of Ditto</item>
+               <item>29 2 Drawings, a <hi>Flora</hi> and <hi>Diana</hi> of <hi>de Ryck</hi>
+               </item>
+               <item>30 4 Drawings of <hi>de Ryck</hi>
+               </item>
+               <item>31 3 Drawings of <hi>Juno</hi> and <hi>Caliſto,</hi> and a Sea Triumph of an <hi>Italian</hi>
+               </item>
+               <item>32 3 Drawings of the killing of the innocent Children, of <hi>Raphael Urbin</hi>
+               </item>
+               <item>33 A Drawing of <hi>Julio Romano</hi>
+               </item>
+               <item>34 A Drawing of <hi>Guido Reno,</hi> and another after <hi>Raphael Urbin</hi>
+               </item>
+               <item>35 An antique amorous</item>
+               <item>36 A Drawing of <hi>Marco da Udene</hi>
+               </item>
+               <item>37 A Fountain of <hi>Baccio del Bianco</hi>
+               </item>
+               <item>38 2 Draw of <hi>Georgio Vaſari,</hi> and of <hi>Gioda Udene</hi>
+               </item>
+               <item>39 2 Drawings of <hi>Marco da Farara</hi>
+               </item>
+               <item>40 A Drawing of <hi>Georgio Vaſari</hi>
+               </item>
+               <item>41 A Drawing of <hi>Bernardino Pocekti</hi>
+               </item>
+               <item>42 2 <hi>Italian</hi> Drawings</item>
+               <item>43 A Front with ſigures, of an <hi>Italian</hi>
+               </item>
+               <item>44 An Architect of an <hi>Italian</hi>
+               </item>
+               <item>45 St. <hi>Peter</hi> of an <hi>Italian</hi>
+               </item>
+               <pb n="17" facs="tcp:38490:12"/>
+               <item>46 2 Drawings of <hi>Italian</hi> Architect</item>
+               <item>47 2 Draw. a <hi>Venus</hi> and <hi>Cupid,</hi> and our Saviour with St. <hi>Francis,</hi> by an <hi>Ital.</hi>
+               </item>
+               <item>48 A Drawing of ſeveral Palaces in <hi>Rome</hi>
+               </item>
+               <item>49 2 <hi>Italian</hi> Sea-triumphs</item>
+               <item>50 A Cartel of <hi>Barnardino Poccetti</hi>
+               </item>
+               <item>51 A Draw. of a Tomb of <hi>Mich. Angelo Bonnarotti</hi>
+               </item>
+               <item>52 2 Drawings of Tabernacles, by an <hi>Italian</hi>
+               </item>
+               <item>53 A Drawing of a Church by an <hi>Italian</hi>
+               </item>
+               <item>54 An <hi>Italian</hi> Tabernacle</item>
+               <item>55 2 Tabernacles by an <hi>Italian</hi>
+               </item>
+               <item>56 2 Drawings, Naked Women, of an <hi>Italian</hi>
+               </item>
+               <item>57 2 Draw. of an <hi>Ital.</hi> Library, and a Carteon with fig.</item>
+               <item>58 An <hi>Italian</hi> Tabernacle</item>
+               <item>59 A Drawing of an <hi>Italian</hi> Front</item>
+               <item>60 A Drawing of an <hi>Italian</hi> Church</item>
+               <item>61 A Drawing of an <hi>Italian</hi> Funeral</item>
+               <item>62 The Children of <hi>Niobe</hi>
+               </item>
+               <item>63 A Drawing of a Mans head</item>
+               <item>64 <hi>Mars</hi> and <hi>Venus,</hi> with other Gods, drawn</item>
+               <item>65 A Lions head of <hi>Raphael Urbin</hi>
+               </item>
+               <item>66 A Horſes head, Ditto</item>
+               <item>67 A Rams Head, Ditto</item>
+               <item>68 A Childs head of <hi>Raphael Urbin</hi>
+               </item>
+               <item>69 An Old mans head, Ditto</item>
+               <item>70 A Womans head of <hi>Raphael Urbin</hi>
+               </item>
+               <item>71 A Mans head, Ditto</item>
+               <item>72 An Old mans head</item>
+               <item>73 — another, Ditto</item>
+               <item>74 2 Mens heads</item>
+               <item>75 — another, Ditto</item>
+               <item>76 An Old mans head, Ditto</item>
+               <item>77 A <hi>Madona</hi>'s head of <hi>Raphael Urbin</hi>
+               </item>
+               <item>78 St. <hi>Joſephs</hi> Head, Ditto</item>
+               <item>79 <hi>Mary Magdalen,</hi> Ditto</item>
+               <item>81 An Old mans head, Ditto</item>
+               <item>82 A Cardinal by <hi>Raphael Urbin</hi>
+               </item>
+               <item>83 St. <hi>Annes</hi> head, Ditto</item>
+               <item>84 A mans head, Ditto</item>
+               <item>85 A Child with two hands</item>
+               <item>86 A Womans head, of the killing of the Children of <hi>Iſrael,</hi> by <hi>Raphael Urbin</hi>
+               </item>
+               <item>87 — another Womans head, Ditto</item>
+               <item>88 — another, Ditto</item>
+               <item>89 A Childs head in the hand of a man, Ditto</item>
+               <item>90 2 Angels heads, Ditto</item>
+               <item>91 2 Mens heads, Ditto</item>
+               <item>92 Another Old mans head, Ditto</item>
+               <item>93 An old mans head</item>
+               <item>94 A Souldiers head, Ditto</item>
+               <item>95 — another, Ditto</item>
+               <item>96 A Child, Ditto</item>
+               <pb n="18" facs="tcp:38490:13"/>
+               <item>97 A Womans head, and a Child of <hi>J. Romano,</hi> and the killing of the Children</item>
+               <item>98 2 Womens heads Ditto</item>
+               <item>99 A Souldiers head Ditto</item>
+               <item>200 A Womans head a crying Ditto</item>
+               <item>101 A Womans head, Ditto</item>
+               <item>202 Chriſts head Ditto</item>
+               <item>103 An Apoſtles head of <hi>Julio Romano</hi>
+               </item>
+               <item>104 An Angels head, Ditto</item>
+               <item>105 A Man and a Womans head, Ditto</item>
+               <item>106 A Womans of Ditto</item>
+               <item>107 A Mans head, Ditto</item>
+               <item>108 2 Old mens heads, of <hi>Julio Romano</hi>
+               </item>
+               <item>109 2 Heads of Ditto</item>
+               <item>110 Our Saviours, and St. <hi>Janes</hi> head, Ditto</item>
+               <item>111 3 Mens heads, Ditto</item>
+               <item>112 2 heads of Ditto</item>
+               <item>113 3 Old mens heads, Ditto</item>
+               <item>114 3 heads, Ditto</item>
+               <item>115 3 Generals heads, Ditto</item>
+               <item>116 11 pieces and Feet, Ditto</item>
+               <item>117 7 ſeveral pieces, Ditto</item>
+               <item>118 7 pieces of Children, Ditto</item>
+               <item>119 5 heads, Ditto</item>
+               <item>120 8 pieces of Legs and Feet, Ditto</item>
+               <item>121 4 pieces of Drapery, Ditto</item>
+               <item>122 5 pieces of Elephants heads and Horſes</item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="appendix">
+            <head>Appendix to the PAINTINGS.</head>
+            <list>
+               <item>1 A Magnificent and large Picture of St. <hi>Katherine</hi> diſputing with the Philoſophers, about 8 foot broad and 12 foot high painted by Mr. <hi>De Ryck.</hi>
+               </item>
+               <item>2 a Carton of <hi>Raphael de Urbins,</hi> an Original, being <hi>Ezekiel</hi>'s Dream, 15 foot high, 10 foot broad</item>
+               <item>3 — another, being the Holy Family of Chriſt, about 10 foot broad and 8 foot high an Original, by <hi>phael D'Urbin</hi>
+               </item>
+               <item>4 A great Royal Picture of <hi>Mars</hi> and <hi>Venus,</hi> with ſeveral <hi>Cupids,</hi> paint<g ref="char:EOLhyphen"/>ed for the King of <hi>France,</hi> as appears by the Armory in the ſaid Picture, being an Original of <hi>John Baptiſt, Bertanus, Mantua us.</hi>
+               </item>
+               <item>5 Another large Picture, about 15 foot broad, and 7 foot high, being the aſſembly of the Gods, at the Marriage of <hi>Pſyche;</hi> painted for the Duke of <hi>Florence,</hi> by <hi>Julio Romano</hi> deſign'd by <hi>Raphael D Urbin.</hi>
+               </item>
+               <item>6 Another of the ſame heigth and breadth, being the Feaſt of the Gods at the Marriage of <hi>Pſyche,</hi> painted for the Duke of <hi>Florence,</hi> by the ſame hand, and deſign'd by <hi>Raphael D'Urbin.</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:38490:13"/>
+         </div>
+      </back>
+   </text>
+</TEI>
